@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="redes_array">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Snapchat</item>
+        <item>Tiktok</item>
+        <item>Telegram</item>
+        <item>Twitter</item>
+        <item>WhatsApp</item>
+        <item>YouTube</item>
+    </string-array>
+</resources>
