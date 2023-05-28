@@ -9,3 +9,7 @@ Añadir funcionalidad al botón de eliminar.
 Permitir que la gráfica se actualice al iniciar el fragmento principal.
 
 Conexión con otras aplicaciones para medición de tiempos.
+
+![Screenshot_2023-05-28-13-56-23-437_com example controlredesapp 1](https://github.com/JuanEsteban2/ControlRedesApp/assets/98414839/83af2dea-878c-4650-8d87-2bc8a9573551)
+
+![Screenshot_2023-05-28-13-56-15-285_com example controlredesapp 1](https://github.com/JuanEsteban2/ControlRedesApp/assets/98414839/725ae785-bc9c-450b-8ac3-d201ef767987)
